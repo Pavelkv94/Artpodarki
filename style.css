@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(250, 237, 249);
+}
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+.navbar-brand {
+    font-family: 'Lobster', cursive;
+    font-size: 150% ;
+    
+}
+.nav-link {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: x-large;
+}
+.navbar-expand-md .navbar-nav .nav-link {
+    padding-right: 1.5rem;
+}
+ .navbar-light .navbar-nav .nav-link:hover {
+    background-color: rgba(219, 102, 243, 0.274);
+    border-radius: 1.5em;
+}
+.navbar-light .navbar-nav .nav-link {
+    color:rgb(81, 0, 92);
+}
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: 1.1em;
+    padding-top: 15px;
+}
+.rose {
+    background-color: rgba(225, 43, 231, 0.329);
+    margin-bottom: 15px;
+}
+.block2 {
+    background-color: rgba(196, 177, 248, 0.274);
+}
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    background-color: rgba(49, 0, 39, 0.836);
+}
+#prc {
+    background-color: rgba(238, 180, 105, 0.397);
+}
+
+footer {
+    background-color: rgba(43, 43, 43, 0.226);
+    line-height: 100px;
+}
+.scal {
+    opacity: 1;
+}
+.scal:hover {
+    opacity: 0.5;
+  }
+.bcg {
+    background-color: rgba(34, 34, 34, 0.37);;
+}
